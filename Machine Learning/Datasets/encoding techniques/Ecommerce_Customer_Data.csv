@@ -1,0 +1,7 @@
+﻿Customer ID,City,Feedback Rating,Payment Method,Return Customer
+101,Chicago,Good,Credit Card,Yes
+102,Miami,Excellent,PayPal,Yes
+103,Chicago,Poor,Debit Card,No
+104,Seattle,Neutral,Credit Card,No
+105,Miami,Good,Debit Card,Yes
+106,Seattle,Excellent,PayPal,Yes
